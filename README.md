@@ -1,1 +1,3 @@
 # Chinf
+
+# Get started

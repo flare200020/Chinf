@@ -30,7 +30,7 @@ To run the ChInf-based anomaly detection, use the following command.
 # Get started
 ```bash
 bash ./scripts/anomaly_detection/SWaT.sh
-
+```
 
 ## 📜 Citation
 
@@ -43,6 +43,7 @@ If you find our work useful, please consider citing our paper:
   journal={arXiv preprint arXiv:2408.14763},
   year={2024}
 }
+
 
 
 

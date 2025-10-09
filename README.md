@@ -30,8 +30,9 @@ For detailed information about dataset acquisition, preprocessing procedures, an
 please refer to the [`datasets` section](https://github.com/ssarfraz/QuoVadisTAD) of the **QuoVadisTAD** repository.  
 We sincerely thank the authors of *QuoVadisTAD* for their excellent open-source contribution and dataset preparation pipeline. 🙏
 
-To run the ChInf-based anomaly detection, use the following command. 
 # Get started
+
+To run the ChInf-based anomaly detection, use the following command. 
 ```bash
 bash ./scripts/anomaly_detection/SWaT.sh
 ```

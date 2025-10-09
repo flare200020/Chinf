@@ -31,3 +31,14 @@ To run the ChInf-based anomaly detection, use the following command.
 ```bash
 bash ./scripts/anomaly_detection/SWaT.sh
 # Get started
+
+## 📜 Citation
+
+If you find our work useful, please consider citing our paper:
+
+@article{wang2024channel,
+  title={Channel-wise influence: Estimating data influence for multivariate time series},
+  author={Wang, Muyao and Xie, Zeke and Chen, Bo},
+  journal={arXiv preprint arXiv:2408.14763},
+  year={2024}
+}

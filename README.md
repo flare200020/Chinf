@@ -42,10 +42,12 @@ bash ./scripts/anomaly_detection/SWaT.sh
 If you find our work useful, please consider citing our paper:
 
 ```bibtex
-@article{wang2024channel,
-  title={Channel-wise influence: Estimating data influence for multivariate time series},
-  author={Wang, Muyao and Xie, Zeke and Chen, Bo},
-  journal={arXiv preprint arXiv:2408.14763},
-  year={2024}
+@inproceedings{
+wang2025channel,
+title={Channel Matters: Estimating Channel Influence for Multivariate Time Series},
+author={Muyao Wang and Zeke Xie and Bo Chen and Hongwei Liu and James Kwok},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=U2AF01VJyg}
 }
 ```
